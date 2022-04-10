@@ -1,6 +1,7 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
+  background: rgb(0,212,255,1);
+  background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
   background-size: cover;
 }
 
@@ -27,8 +28,8 @@ body,html {
   transition: all .07s ease;
   width: 10rem;
   text-align: center;
-  color: white;
-  background: rgba(0,0,0,0.4);
+  color: #C0C0C0;
+  background: #3939b8;
   text-shadow: 0 0 .5rem black;
 }
 
